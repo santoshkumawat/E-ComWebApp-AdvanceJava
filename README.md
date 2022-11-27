@@ -3,7 +3,7 @@
 
 For run this project in intelliJ
 
-Add below jar file:
+Add below jar files:
 
 [servlet.zip](https://github.com/santoshkumaawat/E-ComWebApp-AdvanceJava/files/10098300/servlet.zip)
 
@@ -27,7 +27,7 @@ Add below jar file:
 
 For run this project in Netbeans:
 
-Add below mysql-connector files:
+Add below mysql-connector file:
 
 [mysql-connector-java-8.0.19.zip](https://github.com/santoshkumaawat/E-ComWebApp-AdvanceJava/files/10098451/mysql-connector-java-8.0.19.zip)
 
@@ -74,6 +74,7 @@ price integer,
 pcatg varchar(50));
 
 --------------------------------
+
 
 
 Thankyou for visit!
