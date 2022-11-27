@@ -6,6 +6,8 @@ add jar file in intelliJ
 
 [servlet.zip](https://github.com/santoshkumaawat/E-ComWebApp-AdvanceJava/files/10098300/servlet.zip)
 
+[javax.servlet.jsp.zip.zip](https://github.com/santoshkumaawat/E-ComWebApp-AdvanceJava/files/10098315/javax.servlet.jsp.zip.zip)
+
 1.Open your installed IntelliJ IDEA Project and
 
 2.Go to the File > Project Structure
