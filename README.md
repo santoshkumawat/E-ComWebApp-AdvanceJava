@@ -41,6 +41,14 @@ Add below mysql-connector files:
 
 5. Click open
 
+==============
+
+Add Tomcat Server in Netbeans:
+
+[apache-tomcat-9.0.64-windows-x64.zip](https://github.com/santoshkumaawat/E-ComWebApp-AdvanceJava/files/10098472/apache-tomcat-9.0.64-windows-x64.zip)
+
+Tool -> Servers -> Add server -> Apache Tomcat or TomEE -> Next -> Browse -> Server Location to the bin folder -> Open -> Finish
+
 --------------------------------
 
 
